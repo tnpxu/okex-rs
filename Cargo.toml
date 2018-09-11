@@ -1,0 +1,6 @@
+[package]
+name = "okex-rs"
+version = "0.1.0"
+authors = ["tnpxu <tanapatxu@gmail.com>"]
+
+[dependencies]
